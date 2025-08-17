@@ -50,4 +50,4 @@ Achieved accuracy: >75%.
 Visualize Decision Making
 
 The decision_tree.png file shows how the tree makes splits and decisions.
-<img src=''/>
+<img src='Tree.pdf'/>
