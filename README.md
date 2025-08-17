@@ -50,4 +50,4 @@ Achieved accuracy: >75%.
 Visualize Decision Making
 
 The decision_tree.png file shows how the tree makes splits and decisions.
-<img src='Tree.pdf'/>
+<img src='https://github.com/Tirth678/Genre-Classifier/blob/main/Tree.pdf'/>
